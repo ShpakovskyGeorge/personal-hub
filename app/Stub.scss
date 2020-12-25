@@ -1,0 +1,11 @@
+.stub {
+  display: grid;
+  height: 90vh;
+  justify-items: center;
+  align-items: center;
+  &__label {
+    white-space: nowrap;
+    color: white;
+    text-shadow: 0 0 5px lightgrey;
+  }
+}

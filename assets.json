@@ -1,15 +1,15 @@
 {
   "manifest": {
-    "js": "/personal-hub/manifest77bcfcf16fbeb00f4988.js"
+    "js": "/manifest57aad35fe3452cbd222f.js"
   },
   "main": {
-    "js": "/personal-hub/main63d1c4415f6fcd0c01de.js"
+    "js": "/main2bed64ba98d9450fc688.js"
   },
   "vendors": {
-    "js": "/personal-hub/vendors61ed196de619da9cd10a.js"
+    "js": "/vendors61ed196de619da9cd10a.js"
   },
   "": {
-    "html": "/personal-hub/index.html",
-    "br": "/personal-hub/vendors61ed196de619da9cd10a.js.br"
+    "html": "/index.html",
+    "br": "/vendors61ed196de619da9cd10a.js.br"
   }
 }

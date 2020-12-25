@@ -1,0 +1,15 @@
+{
+  "manifest": {
+    "js": "/manifest57aad35fe3452cbd222f.js"
+  },
+  "main": {
+    "js": "/main63d1c4415f6fcd0c01de.js"
+  },
+  "vendors": {
+    "js": "/vendors61ed196de619da9cd10a.js"
+  },
+  "": {
+    "html": "/index.html",
+    "br": "/vendors61ed196de619da9cd10a.js.br"
+  }
+}
